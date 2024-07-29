@@ -1,2 +1,3 @@
-# faststore-amauryp
-A store powered by FastStore
+# starter.store
+
+A starter powered by FastStore.

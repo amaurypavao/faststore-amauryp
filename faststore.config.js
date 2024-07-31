@@ -16,7 +16,7 @@ module.exports = {
   // Platform specific configs for API
   api: {
     storeId: "amauryp",
-    workspace: 'master',
+    workspace: 'wsfs',
     environment: 'vtexcommercestable',
     hideUnavailableItems: true,
     incrementAddress: false,

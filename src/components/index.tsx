@@ -1,3 +1,6 @@
 import CallToAction from './CallToAction'
+import FormularioCadastroRevendedor from './formRevendedores/FormRevendedores'
 
-export default { CallToAction }
+export { CallToAction }
+
+export default { FormularioCadastroRevendedor }

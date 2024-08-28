@@ -1,0 +1,13 @@
+type ContactFormResponse {
+  message: String!
+}
+
+input ContactFormInput {
+  name: String!
+  email: String!
+  phone: String!
+}
+
+type Mutation {
+  submitContactForm(input: ContactFormInput!): ContactFormResponse
+}

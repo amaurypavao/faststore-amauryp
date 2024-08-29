@@ -13,11 +13,12 @@ type SubmitContactFormData = {
   
         try {
           const response = await fetch(
-            "https://amauryp.vtexcommercestable.com.br/api/dataentities/trabalhe_conosco/documents?_schema=v0.1.1",
+            "https://amauryp.vtexcommercestable.com.br/api/dataentities/trabalhe_conosco/documents",
             {
               method: "POST",
               headers: {
                 "Content-Type": "application/json",
+                "VtexIdclientAutCookie": ""
               },
               body: JSON.stringify(input),
             }

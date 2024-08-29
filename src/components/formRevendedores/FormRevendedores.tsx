@@ -8,7 +8,7 @@ import styles from './FormRevendedores.module.scss'
 
 import { useCallback, useState } from "react";
 import { gql } from "@faststore/core/api";
-import { useLazyQuery_unstable as useLazyQuery } from "@faststore/core/experimental";
+import { useLazyQuery } from "../../hook/useLazyQuery";
 
 
 /* export interface FormularioCadastroRevendedor {

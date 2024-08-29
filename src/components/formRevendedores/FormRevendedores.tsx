@@ -61,7 +61,7 @@ export const CallToActFormularioCadastroRevendedor = () => {
   return (
     <section className={styles.formRevendedores}>
       {/* <h1>{props.title}</h1> */}
-      <h1>Contato</h1>
+      <h1>Trabalhe Conosco</h1>
       <form onSubmit={onSubmit}>
         <UIInputField
           id="name"

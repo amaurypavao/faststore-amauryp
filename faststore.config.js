@@ -55,7 +55,7 @@ module.exports = {
   previewRedirects: {
     home: '/',
     plp: "/groceries",
-    search: "/s?q=Seara",
+    //search: "/s?q=Seara",
     pdp: "/snugget-seara/p",
   },
 
@@ -76,7 +76,7 @@ module.exports = {
       pdp: "/snugget-seara/p",
       collection: "/groceries",
       collection_filtered: "/groceries/?category-1=groceries&brand=Seara&facets=category-1%2Cbrand%27",
-      search: "/s?q=Seara",
+      //search: "/s?q=Seara",
     },
     browser: 'electron',
   },

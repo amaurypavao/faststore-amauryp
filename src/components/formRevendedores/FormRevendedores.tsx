@@ -65,7 +65,7 @@ export const CallToActFormularioCadastroRevendedor = () => {
       <form onSubmit={onSubmit}>
         <UIInputField
           id="name"
-          label="Name"
+          label="Nome"
           value={name}
           onChange={(e) => setName(e.target.value)}
         />
@@ -77,7 +77,7 @@ export const CallToActFormularioCadastroRevendedor = () => {
         />
         <UIInputField
           id="phone"
-          label="Phone"
+          label="Telefone"
           value={phone}
           onChange={(e) => setPhone(e.target.value)}
         />

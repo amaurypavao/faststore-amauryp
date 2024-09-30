@@ -71,7 +71,7 @@ export const CallToActFormularioCadastroRevendedor = () => {
         />
         <UIInputField
           id="email"
-          label="Email"
+          label="Email" 
           value={email}
           onChange={(e) => setEmail(e.target.value)}
         />

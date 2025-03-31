@@ -1252,16 +1252,6 @@
     tsx "^4.6.2"
     typescript "4.7.3"
 
-"@faststore/graphql-utils@^3.4.4":
-  version "3.4.4"
-  resolved "https://registry.yarnpkg.com/@faststore/graphql-utils/-/graphql-utils-3.4.4.tgz#fabd6e72e43cb37f4b7455dc95e7f71ddbd3d452"
-  integrity sha512-MxIOv+k5UnXlYQo95CTStujziP2ItoCoUC6tokHxhdlRapIwmLio0qPTcG8ZJvpio7ZhUkP2b6iZ70Rl7KPGYg==
-
-"@faststore/lighthouse@^3.0.116":
-  version "3.0.116"
-  resolved "https://registry.yarnpkg.com/@faststore/lighthouse/-/lighthouse-3.0.116.tgz#208f8b0588521e888bee813bf7cbcc72dd9bff17"
-  integrity sha512-rjczolI7wJGpzoVDM03DHaZ4ocpDJyHJqKnb8wVn9vVodoGmBTbom1kC5Ywv2X53NEtN8Y4E7KKduVpKuJ422A==
-
 "@faststore/lighthouse@^3.4.4":
   version "3.4.4"
   resolved "https://registry.yarnpkg.com/@faststore/lighthouse/-/lighthouse-3.4.4.tgz#79eb244e07f5e6303772cab4b87d81b2f841091f"
